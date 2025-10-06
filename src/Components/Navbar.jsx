@@ -23,7 +23,7 @@ const Navbar = () => {
                     </li>
                 </ul>
                 </div>
-                <Link to='/' className=" text-xl">Home Decor</Link>
+                <Link to='/' className=" text-2xl font-bold">Home Decor</Link>
             </div>
             <div className="navbar-center "></div>
             <div className="navbar-end">
